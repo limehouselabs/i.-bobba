@@ -1,6 +1,8 @@
 [tool.poetry]
 name = "ibobba"
 version = "0.0.1"
+description = ""
+authors = []
 license = "Apache-2.0"
 readme = "README.md"
 packages = [{include = "ibobber"}]
